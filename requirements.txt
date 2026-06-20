@@ -9,3 +9,4 @@ langdetect
 Sastrawi
 wordcloud
 matplotlib
+kagglehub
